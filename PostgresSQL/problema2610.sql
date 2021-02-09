@@ -1,0 +1,1 @@
+SELECT Round(avg(price),2) FROM products
